@@ -1,6 +1,6 @@
 # Who I am 
 
- I am Youssef unity developer for three years specialized in networking(from socket packets,litenetlib,Darknet2,Mirror), building tools for other devs and designers , game logic optmized code , ML agent , spinee 2d also experience in AI , machine learning , Reinforcement learning and Image processing for five years.
+ I am Youssef unity developer for three years specialized in networking(from socket packets,litenetlib,Darknet2,Mirror), building tools for other devs and designers , game logic optmized code , ML agent , Spine 2d also experience in AI , Machine learning , Reinforcement learning and Image processing for five years.
  
 have experience in writing S.O.L.I.D clean performant code and communication with the other team members.
 
