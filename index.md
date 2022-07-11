@@ -9,15 +9,35 @@ First worked for Bleed AI on Unity AI Packages like finger stretching , gesture 
 then worked for Ka labs on 1-UP World game.
 lastly worked for Loopmon for their open world nft game.
 
-## My work so far
+### My work so far
 
-## 1 UP World
+# 1 UP World
 
 [1 UP World](https://www.youtube.com/watch?v=sNX5vlselc4)
 # Loopmon
 [1 Loop](https://play.loopmon.com)
 
-  
+![first](/assets/1unknown.png)
+
+![first](/assets/2unknown.png)
+
+![first](/assets/3unknown.png)
+
+![first](/assets/4unknown.png)
+
+
+## What pervious clients said about me
+
+![first CLient](/assets/Screenshot 2022-07-10 221919.png)
+
+![first CLient](/assets/Screenshot 2022-07-10 221954.png)
+
+![first CLient](/assets/Screenshot 2022-07-10 222001.png)
+
+![first CLient](/assets/Screenshot 2022-07-10 222224.png)
+
+![first CLient](/assets/Screenshot 2022-07-10 222403.png)
+
 ## Payment,job Types
 
 I am working as low as 15$/h (Full time , Part time , Contract) 
