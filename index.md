@@ -13,12 +13,11 @@ lastly worked for Loopmon for their open world nft game.
 
 # 1 UP World
 
-[1 UP World Game](https://www.youtube.com/watch?v=sNX5vlselc4)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sNX5vlselc4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Loopmon
-[Loop mon Game](https://play.loopmon.com)
+[![Loop mon Game]](https://play.loopmon.com)
 
 ![first](/assets/1unknown.png)
 
