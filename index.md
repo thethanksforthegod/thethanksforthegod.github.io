@@ -32,13 +32,13 @@ lastly worked for Loopmon for their open world nft game.
 
 ![first CLient](/assets/Screenshot 2022-07-10 221919.png)
 
-![first CLient](/assets/Screenshot 2022-07-10 221954.png)
+![second CLient](/assets/Screenshot 2022-07-10 221954.png)
 
-![first CLient](/assets/Screenshot 2022-07-10 222001.png)
+![third CLient](/assets/Screenshot 2022-07-10 222001.png)
 
-![first CLient](/assets/Screenshot 2022-07-10 222224.png)
+![forth CLient](/assets/Screenshot 2022-07-10 222224.png)
 
-![first CLient](/assets/Screenshot 2022-07-10 222403.png)
+![other CLient](/assets/Screenshot 2022-07-10 222403.png)
 
 ## Payment,job Types
 
@@ -48,7 +48,7 @@ I can work +14h/d Can push my self more than you can imagine in critical times
 
 ## Contact
 
-Email:[email](Thethanksforthegod@gmail.com)
+Email:[Thethanksforthegod@gmail.com](Thethanksforthegod@gmail.com)
 
 Discord:Gewily#0460
 ...
