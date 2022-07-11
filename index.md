@@ -11,12 +11,11 @@ lastly worked for Loopmon for their open world nft game.
 
 ## My work so far
 
- # 1 UP World
+## 1 UP World
 
-  [1 UP World] (https://www.youtube.com/watch?v=sNX5vlselc4)
-  
- # Loopmon
-  [1 Loop] (https://play.loopmon.com)
+[1 UP World](https://www.youtube.com/watch?v=sNX5vlselc4)
+# Loopmon
+[1 Loop](https://play.loopmon.com)
 
   
 ## Payment,job Types
