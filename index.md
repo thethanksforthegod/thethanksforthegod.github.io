@@ -11,12 +11,14 @@ lastly worked for Loopmon for their open world nft game.
 
 ## My work so far
 
-  https://www.youtube.com/watch?v=sNX5vlselc4
-  
-  https://play.loopmon.com/
+## 1 UP World
+
+[1 UP World](https://www.youtube.com/watch?v=sNX5vlselc4)
+# Loopmon
+[1 Loop](https://play.loopmon.com)
 
   
-### Payment,job Types
+## Payment,job Types
 
 I am working as low as 15$/h (Full time , Part time , Contract) 
 I can work +14h/d Can push my self more than you can imagine in critical times
