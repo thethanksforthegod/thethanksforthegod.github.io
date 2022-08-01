@@ -9,14 +9,18 @@ First worked for Bleed AI on Unity AI Packages like finger stretching , gesture 
 then worked for Ka labs on 1-UP World game.
 lastly worked for Loopmon for their open world nft game.
 
-## My work so far
+## My works so far
 
 ### 1 UP World
 
+A 2D Metaverse where you can run around with people, own properties, fight with players using different guns and customize your character using your own imgaes and nfts also you can create your own levels that the other players can try it as minecraft.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sNX5vlselc4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Loopmon (nearly solo developed)
+
+An online MMORPG game with monsters and blockchain integration with loopring and you can customize your character and monsters with your nfc then battle the other players online with prizes
+
 [Loopmon Game](https://play.loopmon.com)
 
 ![first](/assets/1.jpeg)
@@ -27,6 +31,21 @@ lastly worked for Loopmon for their open world nft game.
 
 ![first](/assets/4.jpeg)
 
+
+### Pixel City Bros
+
+Pixel art game where you can create your own team , finish tasks , level up your heros and play with friends.
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=-7LkRI-JPN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### Metal Black OPS Offline
+
+A game just like Metal Slug with more features and better gameplay.
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/VLaHOnoJuaE" title="Metal Soldiers   Black OPS Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Metal Black OPS Offline](https://play.loopmon.com)
 
 ## What pervious clients said about me
 
@@ -42,7 +61,7 @@ lastly worked for Loopmon for their open world nft game.
 
 ## Payment,job Types
 
-I am working as low as 15$/h (Full time , Part time , Contract) 
+I am working as low as 10-15$/h (Full time , Part time , Contract) 
 I can work +14h/d Can push my self more than you can imagine in critical times
 
 
