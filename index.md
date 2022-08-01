@@ -36,7 +36,7 @@ An online MMORPG game with monsters and blockchain integration with loopring and
 
 Pixel art game where you can create your own team , finish tasks , level up your heros and play with friends.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=-7LkRI-JPN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="427" height="240" src="https://www.youtube.com/embed/-7LkRI-JPN0" title="PCB - WIP Reel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Metal Black OPS Offline
