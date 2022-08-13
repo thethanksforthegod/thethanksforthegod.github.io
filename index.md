@@ -22,7 +22,7 @@ also worked as freelancer in my free time with small-mid project, fixing project
 
 ### 1 UP World
 
-[1 UP World](https://1up.world/)
+[1 UP World](https://www.1-up.fun/)
 
 A 2D Metaverse where you can run around with people, own properties, fight with players using different guns and customize your character using your own images and nfts also you can create your own levels that the other players can try it as Minecraft.
 
