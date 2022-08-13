@@ -5,9 +5,17 @@
 
 ## Where I worked so Far
 First worked for Bleed AI on Unity AI Packages like finger stretching , gesture identification.
+
+
 then worked for Ka labs on 1-UP World game as game logic, networking and optimizing code developer .
+
+
 then worked for Loopmon for their open world nft game as solo game developer for the whole project .
+
+
 lastly worked with Walsh Technologies in their game Pixel City Bros as solo game developer for the whole project after pervious developer.
+
+
 also worked as freelancer in my free time with small-mid project, fixing project for other developers.
 
 ## My works so far
@@ -46,19 +54,11 @@ A game just like Metal Slug with more features and better gameplay.
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/VLaHOnoJuaE" title="Metal Soldiers   Black OPS Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Metal Black OPS Offline]([https://play.loopmon.com](https://play.google.com/store/apps/details?id=com.kirkbiryazilim.metalblackops&hl=en&gl=US))
+[Metal Black OPS Offline]([https://play.google.com/store/apps/details?id=com.kirkbiryazilim.metalblackops&hl=en&gl=US])
 
 ## What pervious clients said about me
 
-![first CLient](/assets/Screenshot 2022-07-10 221919.png)
-
-![second Client](/assets/Screenshot 2022-07-10 221954.png)
-
-![third Client](/assets/Screenshot 2022-07-10 222001.png)
-
-![forth Client](/assets/Screenshot 2022-07-10 222224.png)
-
-![other Client](/assets/Screenshot 2022-07-10 222403.png)
+![first CLient](/assets/Screenshot 2022-07-10 221919.png) ![second Client](/assets/Screenshot 2022-07-10 221954.png) ![third Client](/assets/Screenshot 2022-07-10 222001.png) ![forth Client](/assets/Screenshot 2022-07-10 222224.png) ![other Client](/assets/Screenshot 2022-07-10 222403.png) ![other Client](/assets/Screenshot 2022-08-13 204057.png) ![other Client](/assets/Screenshot 2022-08-13 204412.png) ![other Client](/assets/Screenshot 2022-08-13 204455.png)
 
 ## Payment
 
