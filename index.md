@@ -22,15 +22,19 @@ also worked as freelancer in my free time with small-mid project, fixing project
 
 ### 1 UP World
 
+[1 UP World](https://1up.world/)
+
 A 2D Metaverse where you can run around with people, own properties, fight with players using different guns and customize your character using your own images and nfts also you can create your own levels that the other players can try it as Minecraft.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sNX5vlselc4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Loopmon (nearly solo developed)
 
+[Loopmon Game](https://play.loopmon.com)
+
 An online MMORPG game with monsters and blockchain integration with loopring and you can customize your character and monsters with your nft then battle the other players online with prizes
 
-[Loopmon Game](https://play.loopmon.com)
+
 
 ![first](/assets/1.jpeg)
 
@@ -43,6 +47,8 @@ An online MMORPG game with monsters and blockchain integration with loopring and
 
 ### Pixel City Bros
 
+
+
 Pixel art game where you can create your own team , finish tasks , level up your heroes and play with friends.
 
 <iframe width="427" height="240" src="https://www.youtube.com/embed/-7LkRI-JPN0" title="PCB - WIP Reel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -50,11 +56,12 @@ Pixel art game where you can create your own team , finish tasks , level up your
 
 ### Metal Black OPS Offline
 
+[Metal Black OPS Offline](https://play.google.com/store/apps/details?id=com.kirkbiryazilim.metalblackops&hl=en&gl=US)
+
 A game just like Metal Slug with more features and better gameplay.
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/VLaHOnoJuaE" title="Metal Soldiers   Black OPS Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Metal Black OPS Offline]([https://play.google.com/store/apps/details?id=com.kirkbiryazilim.metalblackops&hl=en&gl=US])
 
 ## What pervious clients said about me
 
