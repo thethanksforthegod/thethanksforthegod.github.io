@@ -69,7 +69,7 @@ A game just like Metal Slug with more features and better gameplay.
 
 ## Payment
 
-I am working as low as 10-15$/h (Full time , Part time , Contract) 
+I am working as low as 20-30$/h (Full time , Part time , Contract) 
 I can work +14h/d Can push my self more than you can imagine in critical times
 
 
