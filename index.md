@@ -13,10 +13,9 @@ then worked for Ka labs on 1-UP World game as game logic, networking and optimiz
 then worked for Loopmon for their open world nft game as solo game developer for the whole project .
 
 
-lastly worked with Walsh Technologies in their game Pixel City Bros as solo game developer for the whole project after pervious developer.
+then worked with Walsh Technologies in their game Pixel City Bros as solo game developer for the whole project after pervious developer.
 
-
-also worked as freelancer in my free time with small-mid project, fixing project for other developers.
+Now I am working as Lead Developer for McVerse Project [McVerse](https://mcverse.app/)) 
 
 ## My works so far
 
@@ -69,8 +68,7 @@ A game just like Metal Slug with more features and better gameplay.
 
 ## Payment
 
-I am working as low as 20-30$/h (Full time , Part time , Contract) 
-I can work +14h/d Can push my self more than you can imagine in critical times
+I Can accept Wise - Paypal - crypto - Swift Transfer
 
 
 ## Contact
