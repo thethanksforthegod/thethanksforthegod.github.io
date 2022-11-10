@@ -1,6 +1,6 @@
 # Who I am 
 
- I am Youssef I am experienced in unity developer C# specially Networking all types From (scratch Socket and packets, Mirror, Dark rift,Litenetlib,Photon,Fishnet,Socket IO with Node js)  and building tools for the other team members also code optimized game logic with three and half years experience working in industry also I have six years experience in Ai and Machine learning and using AI in unity using Behavior trees or ML Agent also have experience in  write efficient and clean code using SOLID principles , Jobs multi thread programming and optimization also have experience working with team members and integrate work using version control and understand others code with no problems.
+ I am Youssef I unity developer and C# specially Networking all types From (scratch Socket and packets, Mirror, Dark rift,Litenetlib,Photon,Fishnet,Socket IO with Node js)  and building tools for the other team members also code optimized game logic with three and half years experience working in industry also I have six years experience in Ai and Machine learning and using AI in unity using Behavior trees or ML Agent also have experience in  write efficient and clean code using SOLID principles , Jobs multi thread programming and optimization also have experience working with team members and integrate work using version control and understand others code with no problems.
  
 
 ## Where I worked so Far
@@ -76,6 +76,3 @@ I Can accept Wise - Paypal - crypto - Swift Transfer
 Email:[Thethanksforthegod@gmail.com](Thethanksforthegod@gmail.com)
 
 Discord:Gewily#0460
-
-
-interested in hearing from you ^^.
